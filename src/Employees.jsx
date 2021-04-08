@@ -12,7 +12,7 @@ class Employees extends Component {
  
   }
     handleListRef = component => {
-       this.list = component;
+    this.list = component;
   };
 
   handleScroll = ({ scrollTop }) => {
@@ -36,7 +36,7 @@ class Employees extends Component {
         </WindowScroller>
      
         <List
-             ref={this.handleListRef}
+            ref={this.handleListRef}
             height={1000}
             width={300}
             itemSize={50}

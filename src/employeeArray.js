@@ -21,19 +21,19 @@ module.exports=[
           _id:"4",
           firstName:"Sergey",
           lastName:"Brin",
-manager:"Cook",
-events:[{from:'2020-08-06',to:'2020-08-07',type:'vacation'},{from:'2020-08-20',to:'2020-08-23',type:'maternity_leave'}]
-},{
-_id:"5",
-firstName:"Rod",
-lastName:"Stewart",
-manager:"Cook",
-events:[{from:'2020-08-06',to:'2020-08-08',type:'sickness_leave'},{from:'2020-08-20',to:'2020-08-23',type:'sickness_leave'}]
-},{
-_id:"6",
-firstName:"Dontaye",
-lastName:"Draper",
-manager:"Cook",
-events:[{from:'2020-08-06',to:'2020-08-08',type:'sickness_leave'},{from:'2020-08-20',to:'2020-08-23',type:'sickness_leave'}]
+          manager:"Cook",
+          events:[{from:'2020-08-06',to:'2020-08-07',type:'vacation'},{from:'2020-08-20',to:'2020-08-23',type:'maternity_leave'}]
+        },{
+          _id:"5",
+          firstName:"Rod",
+          lastName:"Stewart",
+          manager:"Cook",
+          events:[{from:'2020-08-06',to:'2020-08-08',type:'sickness_leave'},{from:'2020-08-20',to:'2020-08-23',type:'sickness_leave'}]
+        },{
+          _id:"6",
+          firstName:"Dontaye",
+          lastName:"Draper",
+          manager:"Cook",
+          events:[{from:'2020-08-06',to:'2020-08-08',type:'sickness_leave'},{from:'2020-08-20',to:'2020-08-23',type:'sickness_leave'}]
         }
       ];
